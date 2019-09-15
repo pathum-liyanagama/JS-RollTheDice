@@ -8,4 +8,4 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game
 
 This is a practice project I did while following the course "The Complete JavaScript Course 2019: Build Real Projects!" by Jonas Schmedtmann
-Credits goes to Jonas Schmedtmann
+HTML/CSS Layout Credits goes to Jonas Schmedtmann
